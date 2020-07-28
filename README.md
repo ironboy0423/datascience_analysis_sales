@@ -2,8 +2,6 @@ Set of real world data science tasks completed using the Python Pandas library.
 
 ## Background Information:
 
-This repo goes with my video on "Solving real world data science videos with Python Pandas!". Here is some information on that video.
-
 We start by cleaning our data. Tasks during this section include:
 - Drop NaN values from DataFrame
 - Removing rows based on a condition
